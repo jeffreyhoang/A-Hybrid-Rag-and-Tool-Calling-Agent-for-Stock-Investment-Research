@@ -1,7 +1,2 @@
 .env
-.gitignore
-
-architecture.md
-hybrid-rag-stock-research-agent.prd.md
-
-tickets/
+.claude
